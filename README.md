@@ -12,3 +12,4 @@
 
 ## Data Source used- 
 * Kaggle- https://www.kaggle.com/datasets/tahir1413/global-superstore-2016
+![Screenshot 2024-02-14 114302](https://github.com/rohitjagadale123/Sales-Dashboard/assets/126160382/8a8ebf83-5970-4b4e-a3e2-a53c52a9a9d5)
